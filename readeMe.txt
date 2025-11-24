@@ -1,0 +1,47 @@
+        Scopul proiectului
+    Scopul acestui proiect este să creezi un site web personal care să îți
+prezinte abilitățile, experiențele și interesele.
+Site-ul ar trebui să fie atrăgător vizual și ușor de navigat, oferind în același timp informații relevante 
+despre tine și parcursul tău. Site-ul trebuie construit exclusiv cu HTML și CSS, fără a include cod JavaScript.
+    Livrabile
+    Un fișier HTML pentru structura site-ului
+    Un fișier CSS pentru stilizarea site-ului
+    Orice resurse suplimentare (de ex. imagini) folosite în site
+        Funcționalități
+    O secțiune „hero” care oferă o scurtă introducere despre tine și parcursul tău.
+    O pagină de CV care prezintă educația, experiența de lucru, abilitățile și alte informații relevante 
+(poți face legătura către proiectul Capstone 1).
+    O secțiune care evidențiază proiectele sau lucrările pe care le-ai realizat în trecut.
+    O secțiune „despre mine” care oferă informații suplimentare despre tine și interesele tale.
+    O secțiune de contact care include informații pentru ca utilizatorii să poată lua legătura cu tine.
+        Cerințe tehnice
+    Tot HTML-ul trebuie să fie valid și să urmeze marcajul semantic corect.
+    Tot CSS-ul trebuie să fie valid și să respecte bunele practici pentru convențiile de denumire și organizare.
+    Site-ul trebuie să fie responsiv și să funcționeze pe diferite dimensiuni de ecran și dispozitive.
+    Toate imaginile folosite în site trebuie să aibă text alternativ (alt text) adecvat pentru a fi accesibile.
+    Cronologie
+Ora 1: Adună conținut și idei de design, creează wireframe-uri și mockup-uri.
+Orele 2–3: Dezvoltă structura HTML și stilizarea CSS, testează pe diferite dispozitive și browsere.
+Ora 4: Finalizează designul și conținutul, fă orice revizuiri necesare, optimizează pentru performanță.
+Ora 5: Lansează site-ul și împărtășește-l cu ceilalți în secțiunea de Q&A pentru feedback, apoi fă ultimele 
+ajustări.
+
+Întrebări frecvente (FAQ)
+1. Pot folosi aceste proiecte Capstone la interviuri de angajare?
+
+Da! Acesta este scopul proiectelor Capstone. Spre deosebire de proiectele de curs, care au cod-soluție și 
+explicații video, proiectele Capstone sunt menite să fie în totalitate „munca ta proprie”. Peste un milion 
+de studenți s-au înscris la acest curs de dezvoltare web în întreaga lume. Dacă adaugi un proiect de curs în
+ portofoliu, este foarte probabil ca angajatorul să recunoască faptul că provine din acest curs.
+
+Proiectele Capstone, în schimb, nu au cod-soluție, nu au walkthrough, nu au specificații de design — sunt 
+ și simplu creația ta. Așa că pot fi considerate fără îndoială munca ta originală și pot fi adăugate în
+  portofoliu.
+
+Când angajez dezvoltatori, cer întotdeauna un portofoliu. Consider că ceea ce au construit singuri este mult
+ mai important decât universitatea pe care au urmat-o sau dacă au o diplomă în informatică. Mulți 
+  prietenii mei care sunt CEO în multinaționale sau startupuri sunt de acord.
+
+2. Ce fac dacă nu îmi amintesc cum să fac ceva, chiar dacă am urmărit toate videoclipurile?
+
+Să urmărești un videoclip nu este adesea suficient pentru a învăța o abilitate. De aceea aceste proiecte Capstone sunt o oportunitate excelentă de a-ți identifica punctele slabe. În timp ce lucrezi, te vei trezi blocat sau uitând cum se face ceva. Perfect! Atunci este momentul să revezi lecțiile anterioare sau documentația online pentru a acoperi golurile din cunoștințele tale.
